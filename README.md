@@ -22,10 +22,8 @@ This script is a passion project I created to better understand how students fee
 
 The input file must be a CSV named 'datos.csv' with the following structure:
 
----
 Observacion_Positiva;Observacion_Negativa
 "Un gran profesor";"A veces va demasiado rápido"
----
 
 Encoding: latin-1
 Separator: ; (semicolon)
